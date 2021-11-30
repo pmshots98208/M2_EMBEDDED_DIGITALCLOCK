@@ -30,10 +30,12 @@ TXD of ATmega328 is connected to RXD of USB to Serial Converter THEN, RXD of ATm
 
 In our case we are using the 8N1 setup ie 
 
-1 Start Bit
-8 Data Bits
-No Parity 
-1 Stop Bit
+1. 1 Start Bit
+2. 8 Data Bits
+3. No Parity 
+4. 1 Stop Bit
+
+### USART
 
 USART Control and Status Register 0 B or UCSR0B contains the bits for configuring the USART as Transmitter,Receiver or Both.
 
