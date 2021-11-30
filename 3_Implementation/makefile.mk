@@ -3,8 +3,7 @@ PROJ_NAME = Project
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main.c\
-src/main_utl.c\
+src/main.c\
 src/time.c
 
 # All header file paths
