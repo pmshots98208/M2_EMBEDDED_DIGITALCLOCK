@@ -62,7 +62,7 @@ Display system, it's not analog.
 
 When you wnat to know time.
 
-###WHERE?
+### WHERE?
 
 Anywhere, Everywhere.
 
