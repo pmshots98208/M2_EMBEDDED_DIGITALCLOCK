@@ -3,9 +3,9 @@ PROJ_NAME = Project
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/user_utils.c\
-src/adc.c
+SRC = main.c\
+src/main_utl.c\
+src/time.c
 
 # All header file paths
 INC = -I inc
