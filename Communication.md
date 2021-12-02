@@ -42,5 +42,9 @@ USART Control and Status Register 0 B or UCSR0B contains the bits for configurin
 1. Enabling TXEN0 bit configures USART as  Transmitter
 2. Enabling RXEN0 bit configures USART as Receiver 
 
+![USART](https://binaryupdates.com/wp-content/uploads/FRAME-DATABITS-USART.jpg)
+
+![USART](https://binaryupdates.com/wp-content/uploads/FRAME-DATABITS-USART.jpg)
+
 
  
