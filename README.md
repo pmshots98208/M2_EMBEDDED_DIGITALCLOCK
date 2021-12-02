@@ -7,4 +7,5 @@
 
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2447707c0737456e8f5b6be9f0c1f27c)](https://app.codacy.com/gh/pmshots98208/M2_EMBEDDED_DIGITALCLOCK?utm_source=github.com&utm_medium=referral&utm_content=pmshots98208/M2_EMBEDDED_DIGITALCLOCK&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d2ff44e168f74cfd857bb6535df17455)](https://www.codacy.com/gh/pmshots98208/M2_EMBEDDED_DIGITALCLOCK/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pmshots98208/M2_EMBEDDED_DIGITALCLOCK&amp;utm_campaign=Badge_Grade)
